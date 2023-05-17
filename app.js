@@ -1,2 +1,5 @@
 console.log("Hej");
-dwadwad;
+dwadwa;
+dwadw;
+// git add .
+//
