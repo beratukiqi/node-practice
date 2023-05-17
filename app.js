@@ -35,3 +35,19 @@ const readlineSync = require("readline-sync");
 // let fileContent = readlineSync.question("Enter the content for the file: ");
 
 // fs.writeFileSync(`${fileName}`, fileContent);
+
+// Uppgift 5.
+// let insultsData = fs.readFileSync("insults.json");
+// insultsData = JSON.parse(insultsData);
+
+// let count = 0;
+// insultsData.insults.forEach((element) => {
+//     console.log(element.insult);
+//     count++;
+// });
+// console.log("Num of insults: ", count);
+
+// Uppgift 6.
+// let htmlData = fs.readFileSync("index.html");
+// htmlData = htmlData.toString();
+// console.log(htmlData);
